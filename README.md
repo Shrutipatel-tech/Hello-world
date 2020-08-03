@@ -1,2 +1,3 @@
 # Hello-world
-Just a repository
+Hey everyone! This is Shruti here. 
+Thank you!!
